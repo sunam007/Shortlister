@@ -1,0 +1,5 @@
+.shortlister-components-container {
+  background-color: #c2d9ce;
+  display: grid;
+  grid-template-columns: 4fr 2fr;
+}

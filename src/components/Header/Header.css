@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logo {
+  height: 120px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: honeydew;
+}
+.header-title h2 {
+  color: #da393b;
+}
+.header-title p {
+  color: #7e5156;
+}
+.budget {
+  color: #da393b;
+  margin-top: 10px;
+}
+.money {
+  color: #87ba2c;
+}

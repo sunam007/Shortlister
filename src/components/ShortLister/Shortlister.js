@@ -8,6 +8,7 @@ import Col from "react-bootstrap/Col";
 
 const Shortlister = () => {
   const [candidates, setCandidates] = useState([]);
+  const [shortlist, setShortlist] = useState([]);
   useEffect(() => {
     fetch("./candidates.json")
       .then((res) => res.json())
@@ -17,7 +18,12 @@ const Shortlister = () => {
         }
       });
   }, []);
-  const handleAddToShortlist = () => {};
+  const handleAddToShortlist = (candidate) => {
+    // console.log(candidate.name);
+    const newShortlist = [...shortlist, candidate];
+    setShortlist(newShortlist);
+  };
+  // console.log(shortlist);
 
   return (
     <Container className="my-3">
@@ -28,11 +34,15 @@ const Shortlister = () => {
           sm={8}
         >
           {candidates.map((candidate) => (
-            <Candidates key={candidate._id} candidate={candidate}></Candidates>
+            <Candidates
+              key={candidate._id}
+              candidate={candidate}
+              handleAddToShortlist={handleAddToShortlist}
+            ></Candidates>
           ))}
         </Col>
         <Col xs={6} sm={4}>
-          <List></List>
+          <List shortlist={shortlist}></List>
         </Col>
       </Row>
     </Container>

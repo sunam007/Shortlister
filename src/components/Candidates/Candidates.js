@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 
 const Candidates = (props) => {
-  console.log(props.candidate);
+  // console.log(props);
   const { age, balance, email, name, phone, picture, role } = props.candidate;
   return (
     <Card className="my-1 card-background" style={{ width: "15rem" }}>
@@ -25,7 +25,9 @@ const Candidates = (props) => {
         </Card.Text>
         <Card.Text>{email}</Card.Text>
         <Card.Text>Cell: {phone}</Card.Text>
-        <Button variant="primary">add to shortlist</Button>
+        <Button onClick={() => props.handleAddToShortlist(props.candidate)}>
+          <i class="fa-solid fa-circle-plus"></i> Add to shortlist
+        </Button>
       </Card.Body>
     </Card>
   );

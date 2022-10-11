@@ -1,0 +1,12 @@
+.card-background {
+  background-color: #f1fff0;
+}
+.btn {
+  border: none;
+  background-color: #ff4d4d;
+  transition: all 0.5s smooth 0s;
+}
+
+.btn:hover {
+  background-color: #da393b;
+}

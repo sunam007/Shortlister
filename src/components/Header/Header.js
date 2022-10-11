@@ -10,7 +10,7 @@ const Header = () => {
         <h2>Shortlister</h2>
         <p>shortlist candidates and save your budget</p>
         <h3 className="budget">
-          Total Budget: <span className="money">$ 300000</span>{" "}
+          Total Budget: <span className="money">300000 BDT</span>{" "}
         </h3>
       </div>
     </div>

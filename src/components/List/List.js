@@ -1,9 +1,9 @@
 import React from "react";
+import Listcard from "../Listcard/Listcard";
 import "./List.css";
 
 const List = (props) => {
-  console.log(props);
-  const { name } = props.shortlist;
+  // const { name } = props.shortlist;
   return (
     <div className="shortlist-container">
       <h2>
@@ -12,9 +12,10 @@ const List = (props) => {
       </h2>
       <div className="shortlisted-candidates">
         {props.shortlist.map((candidate) => (
-          <li key={candidate._id}>{candidate.name}</li>
+          <Listcard key={candidate._id} candidate={candidate}></Listcard>
         ))}
       </div>
+      {/* <Listcard></Listcard> */}
     </div>
   );
 };

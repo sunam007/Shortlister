@@ -1,8 +1,20 @@
 [
   {
+    "_id": "6343119c7a344e1c83cbc2e4",
+    "balance": 49000,
+    "picture": "https://randomuser.me/api/portraits/men/43.jpg",
+    "age": 36,
+    "name": "Dunlap Solomon",
+    "gender": "male",
+    "email": "dunlapsolomon@ovolo.com",
+    "phone": "+1 (997) 426-3148",
+    "role": "Technical Lead",
+    "skills": ["LAMP", "MERN", "Python", "Figma"]
+  },
+  {
     "_id": "6343119c406e09aa6c26e167",
     "balance": 35000,
-    "picture": "https://randomuser.me/api/portraits/women/23.jpg",
+    "picture": "https://randomuser.me/api/portraits/women/26.jpg",
     "age": 33,
     "name": "Neva Owens",
     "gender": "female",
@@ -11,6 +23,43 @@
     "role": "Software Developer",
     "skills": ["Linux", "Apache", "MySQL", "PHP"]
   },
+  {
+    "_id": "6343119cbf5c3d432b72d1ca",
+    "balance": 26500,
+    "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+    "age": 23,
+    "name": "Ethel Dejesus",
+    "gender": "male",
+    "email": "etheldejesus@ovolo.com",
+    "phone": "+1 (877) 591-3902",
+    "role": "Junior Software Developer",
+    "skills": ["MySQL", "Django", "Python", "HTML/CSS"]
+  },
+  {
+    "_id": "6343119c2ba29c1d3e8f3899",
+    "balance": 20500,
+    "picture": "https://randomuser.me/api/portraits/men/59.jpg",
+    "age": 22,
+    "name": "Cristofer Barn",
+    "gender": "male",
+    "email": "katharinebarr@ovolo.com",
+    "phone": "+1 (936) 433-3906",
+    "role": "Junior Software Developer",
+    "skills": ["MongoDB", "ExpressJs", "React", "NodeJs"]
+  },
+  {
+    "_id": "6343119c334fe0aecac05724",
+    "balance": 38500,
+    "picture": "https://randomuser.me/api/portraits/women/9.jpg",
+    "age": 32,
+    "name": "Hannah Miles",
+    "gender": "female",
+    "email": "hannahmiles@ovolo.com",
+    "phone": "+1 (962) 512-3783",
+    "role": "Software Developer",
+    "skills": ["MongoDB", "ExpressJs", "Angular", "NodeJs"]
+  },
+
   {
     "_id": "6343119c2516fb0da666f383",
     "balance": 42000,
@@ -23,18 +72,7 @@
     "role": "Software Developer",
     "skills": ["Linux", "Engenix", "MySQL", "PHP"]
   },
-  {
-    "_id": "6343119c2ba29c1d3e8f3899",
-    "balance": 20500,
-    "picture": "https://randomuser.me/api/portraits/men/55.jpg",
-    "age": 22,
-    "name": "Cristofer Barn",
-    "gender": "male",
-    "email": "katharinebarr@ovolo.com",
-    "phone": "+1 (936) 433-3906",
-    "role": "Junior Software Developer",
-    "skills": ["MongoDB", "ExpressJs", "React", "NodeJs"]
-  },
+
   {
     "_id": "6343119c8f7ba5e56dbcd284",
     "balance": 38000,
@@ -62,7 +100,7 @@
   {
     "_id": "6343119c81466a213296da41",
     "balance": 42000,
-    "picture": "https://randomuser.me/api/portraits/men/23.jpg",
+    "picture": "https://randomuser.me/api/portraits/men/47.jpg",
     "age": 33,
     "name": "Candace Mack",
     "gender": "male",
@@ -71,18 +109,7 @@
     "role": "UI Designer",
     "skills": ["Figma", "HTML/CSS", "Adobe Illustrator", "Photoshop"]
   },
-  {
-    "_id": "6343119c7a344e1c83cbc2e4",
-    "balance": 49000,
-    "picture": "https://randomuser.me/api/portraits/men/43.jpg",
-    "age": 36,
-    "name": "Dunlap Solomon",
-    "gender": "male",
-    "email": "dunlapsolomon@ovolo.com",
-    "phone": "+1 (997) 426-3148",
-    "role": "Technical Lead",
-    "skills": ["LAMP", "MERN", "Python", "Figma"]
-  },
+
   {
     "_id": "6343119c2d25f72bf79d996a",
     "balance": 19500,
@@ -95,30 +122,7 @@
     "role": "Junior UI designer",
     "skills": ["Figma", "HTML/CSS", "Adobe Illustrator", "JavaScript"]
   },
-  {
-    "_id": "6343119cbf5c3d432b72d1ca",
-    "balance": 26500,
-    "picture": "https://randomuser.me/api/portraits/men/44.jpg",
-    "age": 23,
-    "name": "Ethel Dejesus",
-    "gender": "male",
-    "email": "etheldejesus@ovolo.com",
-    "phone": "+1 (877) 591-3902",
-    "role": "Junior Software Developer",
-    "skills": ["MySQL", "Django", "Python", "HTML/CSS"]
-  },
-  {
-    "_id": "6343119c334fe0aecac05724",
-    "balance": 38500,
-    "picture": "https://randomuser.me/api/portraits/women/9.jpg",
-    "age": 32,
-    "name": "Hannah Miles",
-    "gender": "female",
-    "email": "hannahmiles@ovolo.com",
-    "phone": "+1 (962) 512-3783",
-    "role": "Software Developer",
-    "skills": ["MongoDB", "ExpressJs", "Angular", "NodeJs"]
-  },
+
   {
     "_id": "6343119c2794dc1aa38ec30c",
     "balance": 21500,

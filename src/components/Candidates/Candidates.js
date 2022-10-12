@@ -26,7 +26,7 @@ const Candidates = (props) => {
         <Card.Text>{email}</Card.Text>
         <Card.Text>Cell: {phone}</Card.Text>
         <Button onClick={() => props.handleAddToShortlist(props.candidate)}>
-          <i class="fa-solid fa-circle-plus"></i> Add to shortlist
+          <i className="fa-solid fa-circle-plus"></i> Add to shortlist
         </Button>
       </Card.Body>
     </Card>

@@ -11,7 +11,7 @@ const Candidates = (props) => {
   const [skill1, skill2, skill3, skill4] = skills;
   // console.log(skills[0]);
   return (
-    <Card className="my-1 card-background" style={{ width: "17rem" }}>
+    <Card className="my-1 mx-1 card-background" style={{ width: "15rem" }}>
       <Card.Img
         className="profile-pic mx-auto my-1"
         variant="top"
@@ -19,18 +19,14 @@ const Candidates = (props) => {
       />
       <Card.Body className="h-50">
         <Card.Title>{name}</Card.Title>
-        {/* <Card.Text>
-          Age: <strong>{age}</strong>
-        </Card.Text> */}
         <Card.Text>
-          Role: <strong>{role}</strong>
+          <strong>{role}</strong>
         </Card.Text>
         <Card.Text>
-          Skills:
+          Skills:{" "}
           <strong>
-            {" "}
             {skill1}, {skill2}, {skill3}, {skill4}
-          </strong>{" "}
+          </strong>
         </Card.Text>
         <Card.Text>
           Salary: <strong>BDT {balance}</strong>{" "}

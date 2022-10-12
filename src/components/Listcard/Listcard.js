@@ -12,10 +12,10 @@ const Listcard = (props) => {
         <p>{role}</p>
         <p>Salary: BDT {balance}</p>
         <button className="confirm-btn">
-          <i class="fa-solid fa-check"></i> Confirm
+          <i class="fa-solid fa-check"></i>
         </button>
         <button className="remove-btn">
-          <i class="fa-solid fa-xmark"></i> Remove
+          <i class="fa-solid fa-xmark"></i>
         </button>
       </div>
     </div>

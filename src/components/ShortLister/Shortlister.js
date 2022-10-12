@@ -26,12 +26,12 @@ const Shortlister = () => {
   // console.log(shortlist);
 
   return (
-    <Container className="my-3">
+    <Container className="my-3 ">
       <Row>
         <Col
-          className="d-flex d-flex justify-content-evenly flex-wrap gap-1"
+          className="d-flex flex-wrap justify-content-evenly order-lg-1 order-2"
           xs={12}
-          sm={8}
+          lg={9}
         >
           {candidates.map((candidate) => (
             <Candidates
@@ -41,7 +41,7 @@ const Shortlister = () => {
             ></Candidates>
           ))}
         </Col>
-        <Col xs={6} sm={4}>
+        <Col className="order-lg-2 mx-auto order-1" xs={8} lg={3}>
           <List shortlist={shortlist}></List>
         </Col>
       </Row>

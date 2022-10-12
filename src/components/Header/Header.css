@@ -13,6 +13,9 @@
   flex-wrap: wrap;
   background-color: honeydew;
 }
+.header-title {
+  margin: 3px;
+}
 .header-title h2 {
   color: #da393b;
 }

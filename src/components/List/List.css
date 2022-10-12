@@ -1,9 +1,7 @@
 .shortlisted-candidates {
   color: #35aa57;
 }
-.shortlist-container h2 {
-  color: #da393b;
-}
-#shortlist-total {
+
+.shortlist-container h4 {
   color: #87ba2c;
 }

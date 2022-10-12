@@ -6,7 +6,7 @@
     "age": 36,
     "name": "Dunlap Solomon",
     "gender": "male",
-    "email": "dunlapsolomon@ovolo.com",
+    "email": "d.solomon@xyz.com",
     "phone": "+1 (997) 426-3148",
     "role": "Technical Lead",
     "skills": ["LAMP", "MERN", "Python", "Figma"]
@@ -18,7 +18,7 @@
     "age": 33,
     "name": "Neva Owens",
     "gender": "female",
-    "email": "nevaowens@ovolo.com",
+    "email": "nevaowens@xyz.com",
     "phone": "+1 (977) 459-2144",
     "role": "Software Developer",
     "skills": ["Linux", "Apache", "MySQL", "PHP"]
@@ -30,9 +30,9 @@
     "age": 23,
     "name": "Ethel Dejesus",
     "gender": "male",
-    "email": "etheldejesus@ovolo.com",
+    "email": "etheldejesus@xyz.com",
     "phone": "+1 (877) 591-3902",
-    "role": "Junior Software Developer",
+    "role": "Jr Software Developer",
     "skills": ["MySQL", "Django", "Python", "HTML/CSS"]
   },
   {
@@ -42,9 +42,9 @@
     "age": 22,
     "name": "Cristofer Barn",
     "gender": "male",
-    "email": "katharinebarr@ovolo.com",
+    "email": "katharinebarr@xyz.com",
     "phone": "+1 (936) 433-3906",
-    "role": "Junior Software Developer",
+    "role": "Jr Software Developer",
     "skills": ["MongoDB", "ExpressJs", "React", "NodeJs"]
   },
   {
@@ -54,7 +54,7 @@
     "age": 32,
     "name": "Hannah Miles",
     "gender": "female",
-    "email": "hannahmiles@ovolo.com",
+    "email": "hannahmiles@xyz.com",
     "phone": "+1 (962) 512-3783",
     "role": "Software Developer",
     "skills": ["MongoDB", "ExpressJs", "Angular", "NodeJs"]
@@ -67,7 +67,7 @@
     "age": 32,
     "name": "Alyce Perez",
     "gender": "female",
-    "email": "alyceperez@ovolo.com",
+    "email": "alyceperez@xyz.com",
     "phone": "+1 (850) 575-3760",
     "role": "Software Developer",
     "skills": ["Linux", "Engenix", "MySQL", "PHP"]
@@ -80,9 +80,9 @@
     "age": 31,
     "name": "Wilkerson Kirk",
     "gender": "male",
-    "email": "wilkersonkirk@ovolo.com",
+    "email": "wilkersonkirk@xyz.com",
     "phone": "+1 (940) 514-3466",
-    "role": "Senior Software Engineer",
+    "role": "Sr Software Engineer",
     "skills": ["MongoDB", "ExpressJs", "Angular", "NodeJs"]
   },
   {
@@ -92,9 +92,9 @@
     "age": 23,
     "name": "Valarie Fuller",
     "gender": "female",
-    "email": "valariefuller@ovolo.com",
+    "email": "valariefuller@xyz.com",
     "phone": "+1 (961) 501-2248",
-    "role": "Intern Software Developer",
+    "role": "Intern Developer",
     "skills": ["HTML/CSS", "JavaScript", "React", "Bootstrap"]
   },
   {
@@ -104,7 +104,7 @@
     "age": 33,
     "name": "Candace Mack",
     "gender": "male",
-    "email": "candacemack@ovolo.com",
+    "email": "candacemack@xyz.com",
     "phone": "+1 (904) 567-3958",
     "role": "UI Designer",
     "skills": ["Figma", "HTML/CSS", "Adobe Illustrator", "Photoshop"]
@@ -117,9 +117,9 @@
     "age": 21,
     "name": "Paula Delacruz",
     "gender": "female",
-    "email": "pauladelacruz@ovolo.com",
+    "email": "pauladelacruz@xyz.com",
     "phone": "+1 (824) 560-2190",
-    "role": "Junior UI designer",
+    "role": "Jr UI designer",
     "skills": ["Figma", "HTML/CSS", "Adobe Illustrator", "JavaScript"]
   },
 
@@ -130,9 +130,9 @@
     "age": 23,
     "name": "Kris Mills",
     "gender": "male",
-    "email": "krismills@ovolo.com",
+    "email": "krismills@xyz.com",
     "phone": "+1 (948) 459-3755",
-    "role": "Intern Software Developer",
+    "role": "Intern Developer",
     "skills": ["HTML/CSS", "JavaScript", "React", "Tailwind"]
   },
   {
@@ -142,9 +142,9 @@
     "age": 37,
     "name": "Nunez Burgess",
     "gender": "male",
-    "email": "nunezburgess@ovolo.com",
+    "email": "nunezburgess@xyz.com",
     "phone": "+1 (854) 567-2025",
-    "role": "Senior Software Engineer",
+    "role": "Sr Software Engineer",
     "skills": ["LEMP", "MEAN", "Python", "Figma"]
   }
 ]

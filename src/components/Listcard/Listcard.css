@@ -8,15 +8,15 @@
   align-items: center;
 }
 .card-container img {
-  width: 30%;
-  margin: 3px 6px;
+  width: 25%;
+  margin: 3px 10px;
   padding: 2px;
   border-radius: 50%;
-  border: 2px solid #c6e0d5;
+  border: 1px solid #c6e0d5;
 }
 .card-deatails {
-  /* border: 1px solid red; */
   margin: 3px 10px;
+  line-height: 1;
 }
 .confirm-btn {
   font-size: 0.75rem;

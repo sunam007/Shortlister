@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="background">
+    <div className="body">
       <Header></Header>
       <Shortlister></Shortlister>
     </div>

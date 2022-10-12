@@ -8,9 +8,11 @@ const Header = () => {
       <img className="logo" src={logo} alt="" />
       <div className="header-title">
         <h2>Shortlister</h2>
-        <p>shortlist candidates and save your budget</p>
+        <p>
+          <strong>- shortlist candidates and save your budget</strong>
+        </p>
         <h3 className="budget">
-          Total Budget: <span className="money">300000 BDT</span>{" "}
+          Monthly Budget: <span className="money">300000 BDT</span>{" "}
         </h3>
       </div>
     </div>

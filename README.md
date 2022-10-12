@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Shortlister App - shortlist candidates and save your budget
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

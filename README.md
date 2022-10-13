@@ -17,4 +17,4 @@ Visit [Shortlister App](www.google.com).
 
 #### Disclaimer
 
-confirm and remove button functionality will be added in version 0.1.1
+confirm and remove button functionality will be added in version 1.0.2

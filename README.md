@@ -14,3 +14,7 @@ A responsive web app that helps to shortlist candidates from thousands of others
 #### Shortlister Website
 
 Visit [Shortlister App](www.google.com).
+
+#### Disclaimer
+
+confirm and remove button functionality will be added in version 0.1.1

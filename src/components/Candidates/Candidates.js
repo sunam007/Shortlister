@@ -5,11 +5,11 @@ import Card from "react-bootstrap/Card";
 
 const Candidates = (props) => {
   // console.log(props.candidate);
-  const { age, balance, email, name, phone, picture, role, skills } =
+  const { balance, email, name, phone, picture, role, skills } =
     props.candidate;
   console.log(skills);
   const [skill1, skill2, skill3, skill4] = skills;
-  // console.log(skills[0]);
+
   return (
     <Card className="my-1 mx-1 card-background" style={{ width: "15rem" }}>
       <Card.Img
